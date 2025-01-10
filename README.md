@@ -1,3 +1,10 @@
+# HG6245D / HG6245D2 is also vulnerable
+Some FiberHome modems, like the default PLDT modems here in the Philippines, are particularly vulnerable to this issue.
+
+WIP
+
+BELOW is the original "Puma6Fail" readme
+
 # Puma 6 fail demo
 
 Tool to demonstrate issue from this post found by mackey: https://www.dslreports.com/forum/r31377755-
@@ -15,3 +22,4 @@ Testing through a local Virgin Media Super Hub 3 modem:
     3mbps/6000pps   causes ~250ms average latency and 85% packet loss
 
 ![Smokeping graph while testing](https://i.imgur.com/eshENJE.png)
+
